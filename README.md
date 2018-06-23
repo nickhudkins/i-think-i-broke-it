@@ -2,6 +2,8 @@
 
 Howdy traveler, this repository contains a frontend application (`app`) as well as a graphql server (`server`). In order to run it, please `cd` into each directory, run `yarn` to get your dependencies setup, then in each directory you can run `yarn start`. The graphql server will run on port `3001` and the app on `3000`
 
+Or go check it out here https://server-ofdmlnhdxx.now.sh/
+
 ## Expected Behavior
 Upon selecting a country, the region selector should appear, as `fetchMore` defines `updateQuery` which merges the newly fetched data.
 
